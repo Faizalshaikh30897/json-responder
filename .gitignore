@@ -1,0 +1,13 @@
+
+
+server/node_modules/
+server/dist/
+server/.env
+server/yarn.lock
+server/package-lock.json
+
+
+client/json-responder/.next
+client/json-responder/node_modules
+
+
